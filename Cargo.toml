@@ -1,0 +1,8 @@
+[package]
+name = "rollify"
+version = "0.1.0"
+authors = ["Your Name <youremail@example.com>"]
+edition = "2021"
+
+[dependencies]
+sha2 = "0.10.6"
